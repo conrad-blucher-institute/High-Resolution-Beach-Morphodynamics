@@ -1,1 +1,1 @@
-# onrad-blucher-institute-High-Resolution-Beach-Morphodynamical-Analysis
+# High-Resolution-Beach-Morphodynamical-Analysis
