@@ -1,6 +1,6 @@
 # High-Resolution-Beach-Morphodynamical-Analysis
 ## Content
-This repository contains supplemental imagery aimed at enhancing the understanding and visualization of the inundation events discussed in the following publication.
+This repository contains supplemental imagery aimed at enhancing the understanding and visualization of the inundation events discussed in the below journal publication.
 
 Vicens-Miquel, Marina; Williams, D.D.; Tissot, Philippe; Medrano, Antonio. _Analysis of Sandy Beach Morphology Changes and Inundation Events from a High Spatiotemporal Resolution Dataset_. _Journal of Coastal Research_. (Submitted, pending review)
 
